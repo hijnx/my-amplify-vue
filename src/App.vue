@@ -57,6 +57,7 @@ export default {
 
 <!--
 <script>
+// How is this implemented?
 // Real-time data with GraphQL subscriptions
 // Now if you wish to subscribe to data, import the onCreateTodo subscription and create a new subscription by adding subscription with API.graphql() like so:
 
